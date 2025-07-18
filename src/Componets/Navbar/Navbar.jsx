@@ -13,9 +13,7 @@ export default function Navbar() {
         <li>Portfolio</li>
         <li>Contact</li>
       </ul>
-      <div className="nav-connect">
-        <p>Connect with Me</p>
-      </div>
+      <div className="nav-connect">Connect with Me</div>
     </div>
   )
 }
