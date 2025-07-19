@@ -1,6 +1,6 @@
 import React from 'react'
 import './Hero.css'
-import profile from '../../assets/profile_img.svg'
+import profile from '../../assets/pro.svg'
 export default function HeroSec() {
   return (
     <div className="hero">
